@@ -17,19 +17,6 @@ npm install
 ```
 
 ### 2. Environment Configuration
-Copy the example environment file and configure it:
-```bash
-cp .env.example .env
-```
-
-Edit `.env` file with your settings:
-```env
-# Database Configuration
-DB_PATH=./blog.db
-
-# Server Configuration
-PORT=3000
-NODE_ENV=development
 ```
 
 ### 3. Start the Server
